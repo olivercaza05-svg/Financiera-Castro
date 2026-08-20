@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.2",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "B0DA4CE600B433AF0CA10C5BE1A9CC8957EC262045F37D5EA6130E0D246A9986",
-  "notes": "Cotización simplificada, interfaz adaptable y sistema de actualizaciones automáticas."
+  "sha256": "6DF68D52ABB056FCF6106BD58DA38AE06B11EF43EC00B624366D8B17D71049BC",
+  "notes": "Actualizaciones simplificadas: ahora solo necesitas buscar y descargar. La dirección oficial ya está integrada."
 }
