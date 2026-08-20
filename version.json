@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.6",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "6DF68D52ABB056FCF6106BD58DA38AE06B11EF43EC00B624366D8B17D71049BC",
-  "notes": "Actualizaciones simplificadas: ahora solo necesitas buscar y descargar. La dirección oficial ya está integrada."
+  "sha256": "45DA88C710573E1DDAEABBCE5143AC353AA3984212EC9228B38907BD20999415",
+  "notes": "Elimina el total del nuevo préstamo de la imagen de renovación."
 }
