@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.0",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "BAB2589BEEFA2E995EECECADA7903CBF1D77456C2F7DE876A67E0A5445B256C0",
-  "notes": "Nueva guía contextual: burbujas explicativas al pasar el cursor, botón de ayuda, atajos y preferencia guardada por perfil."
+  "sha256": "A6B27F4648B84107B196E635899CFD8112AD1BA8EEA462165BB67DC1FC93CD36",
+  "notes": "Nueva navegación con Inicio, Clientes, Préstamos y Carteras separados; tablero inicial ampliado y terminología visible de multas."
 }
