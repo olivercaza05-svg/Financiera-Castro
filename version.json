@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
+  "version": "1.8.1",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "45DA88C710573E1DDAEABBCE5143AC353AA3984212EC9228B38907BD20999415",
-  "notes": "Elimina el total del nuevo préstamo de la imagen de renovación."
+  "sha256": "BAB2589BEEFA2E995EECECADA7903CBF1D77456C2F7DE876A67E0A5445B256C0",
+  "notes": "Nueva guía contextual: burbujas explicativas al pasar el cursor, botón de ayuda, atajos y preferencia guardada por perfil."
 }
