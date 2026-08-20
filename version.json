@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.1",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "A6B27F4648B84107B196E635899CFD8112AD1BA8EEA462165BB67DC1FC93CD36",
-  "notes": "Nueva navegación con Inicio, Clientes, Préstamos y Carteras separados; tablero inicial ampliado y terminología visible de multas."
+  "sha256": "B21671199E5B14F384CFBE5BF024C4AECA6BF0F254D6001D11A458C6753F0620",
+  "notes": "Fecha de entrega en préstamos y renovaciones con primer pago automático, préstamos personalizados e inicio con capital histórico, activo y dinero transferido."
 }
