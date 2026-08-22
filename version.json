@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0",
+  "version": "1.13.1",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "CB878B961560ABEDD2EBBD1933C8C7969E73B7BB046BEC02A2B5571EF847835B",
-  "notes": "Sincronización segura entre computadoras con estado visible, detección de conflictos, respaldo preventivo, descarga automática en equipos vacíos, protección con contraseña al eliminar clientes y resumen global de todos los clientes."
+  "sha256": "0F7CC8D9C793875431304518FC853F2A2AC37D673E8A198F09EC77D94DC080E8",
+  "notes": "Ayudas emergentes adaptables: tamaño según el contenido, texto multilínea, títulos resaltados, colores por tipo, posición automática y duración proporcional."
 }
