@@ -1,6 +1,6 @@
 {
   "version": "1.12.0",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "A92EC4031BBC0FA20740BCCECD39A13DAEA8C5F52C7D5E91260F6106B06CB0AD",
+  "sha256": "860C964FF53EDA6F5254D833F77A84FED3EA4FA920F6BC0B9674B8499638EE80",
   "notes": "Sincronización de datos de Oliver entre computadoras mediante Supabase. Incluye clientes, préstamos, pagos, configuraciones y PDF de INE. Inicio muestra cobros esperados y ganancia real diaria, semanal y mensual."
 }
