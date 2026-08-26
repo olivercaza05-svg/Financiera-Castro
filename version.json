@@ -1,6 +1,6 @@
 {
-  "version": "1.13.1",
+  "version": "1.14.0",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "0F7CC8D9C793875431304518FC853F2A2AC37D673E8A198F09EC77D94DC080E8",
-  "notes": "Ayudas emergentes adaptables: tamaño según el contenido, texto multilínea, títulos resaltados, colores por tipo, posición automática y duración proporcional."
+  "sha256": "C978703B82C06BE85E4B4D2013A7B4A5417DF52C155DC41D74712DB29A5CCEEE",
+  "notes": "Las multas ahora son completamente manuales. Una cuota vencida no genera ni cobra multa hasta seleccionar la cuota, pulsar Aplicar multa y confirmar el importe."
 }
