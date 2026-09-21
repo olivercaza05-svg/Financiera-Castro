@@ -1,6 +1,6 @@
 {
-  "version": "1.14.0",
-  "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "C978703B82C06BE85E4B4D2013A7B4A5417DF52C155DC41D74712DB29A5CCEEE",
-  "notes": "Las multas ahora son completamente manuales. Una cuota vencida no genera ni cobra multa hasta seleccionar la cuota, pulsar Aplicar multa y confirmar el importe."
+    "version":  "1.15.0",
+    "downloadUrl":  "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
+    "sha256":  "A518291FD428BB3E0E648993C41E12C1A250D3D8422B9B380FC7DE0384CEEA34",
+    "notes":  "Inicio renovado: clientes activos, capital activo, cobro total semanal y mensual separado de la ganancia por intereses. Las multas se muestran aparte. En Cobranza, las cuotas ahora aparecen como actual/total (ej. 4/16)."
 }
