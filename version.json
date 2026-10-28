@@ -1,6 +1,6 @@
 {
-    "version":  "1.15.1",
-    "downloadUrl":  "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-    "sha256":  "1923BA6B0AD34E7C1149BA334E473153337CA8A8368166FB05B2742227F84721",
-    "notes":  "Dashboard corregido: total semanal y mensual muestran el periodo completo sin disminuir al registrar pagos. El interÃ©s programado de hoy, semana y mes permanece fijo segÃºn las cuotas del periodo, y se agrega el interÃ©s realmente cobrado hoy, esta semana y este mes. Multas, trÃ¡mites y capital siguen separados."
+    "version": "1.15.2",
+    "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
+    "sha256": "7599803D5F6B06184A4961A311BA2324FF0C68887362F2E28E35F265F1183E1D",
+    "notes": "Clientes: Próximo a vencer ahora aparece solo cuando faltan 14 días o menos. Inicio: hoy usa el día calendario completo, la semana va de lunes a domingo y el mes del día 1 al último día. El cobro e interés programados corresponden al periodo completo y el interés cobrado se mantiene separado de multas, trámites y capital."
 }
