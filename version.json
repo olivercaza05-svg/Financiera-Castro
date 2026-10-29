@@ -1,6 +1,6 @@
 {
-  "version": "1.15.2",
+  "version": "1.15.1",
   "downloadUrl": "https://github.com/olivercaza05-svg/Financiera-Castro/releases/latest/download/FinancieraCastro_Actualizacion.zip",
-  "sha256": "569307C4CAB367462B6548BA016827D274D272E7BCF0551ADBBF23BC69AE23FC",
-  "notes": "Corrección de periodos: Próximo a vencer aparece únicamente cuando faltan 14 días o menos. Hoy usa el día local completo de 00:00 a 23:59:59; semana de lunes 00:00 a domingo 23:59:59; mes del día 1 00:00 al último día 23:59:59. Se evita el corrimiento por zona horaria al contar cobros, y el interés programado permanece separado del interés cobrado y de las multas. Incluye prueba previa y rollback automático si la nueva versión falla al iniciar."
+  "sha256": "1923BA6B0AD34E7C1149BA334E473153337CA8A8368166FB05B2742227F84721",
+  "notes": "Dashboard corregido: total semanal y mensual muestran el periodo completo sin disminuir al registrar pagos. El interés programado de hoy, semana y mes permanece fijo según las cuotas del periodo, y se agrega el interés realmente cobrado hoy, esta semana y este mes. Multas, trámites y capital siguen separados."
 }
